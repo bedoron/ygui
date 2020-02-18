@@ -1,0 +1,8 @@
+---
+hello:
+    name: doron # Comment
+    age: 35
+    extras:
+        field1: value1
+        field2: value2
+    cats: [ "kitzy", "pitzy", "kola" ] # My katz
